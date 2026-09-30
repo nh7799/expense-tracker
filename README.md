@@ -22,3 +22,4 @@ Open http://localhost:3000, create an account, then add expenses. Data is stored
 - `npm run lint` — type-check
 - `npm test` — Vitest
 # money-expense-tracker
+# expense-tracker
