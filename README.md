@@ -23,3 +23,4 @@ Open http://localhost:3000, create an account, then add expenses. Data is stored
 - `npm test` — Vitest
 # money-expense-tracker
 # expense-tracker
+# expense-tracker
